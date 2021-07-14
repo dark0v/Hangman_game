@@ -1,0 +1,1 @@
+Hangman game built in Python, with IF Statements, that runs inside the console and guess a list of 6 words. After 9 failed guesses, the player loses and the figure changes to a hanged man.
